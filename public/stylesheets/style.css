@@ -12,3 +12,12 @@ body {
 #result {
     margin-top: 2%;
 }
+
+.copy {
+    margin: 1% auto;
+    display: none;
+}
+
+.display {
+    display: block;
+}
