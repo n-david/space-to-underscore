@@ -1,0 +1,14 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+.text {
+    margin-top: 2%;
+    width: 50%;
+}
+
+#result {
+    margin-top: 2%;
+}
