@@ -15,7 +15,7 @@ $(function() {
 		$text.val('');
 		input = input.replace(/( [^a-zA-Z0-9-] )|( [^a-zA-Z0-9-])|([^a-zA-Z0-9-] )/g,
 				'_').replace(/[^a-zA-Z0-9-]/g, '_');
-		$('#result').text(input);
+		$('#result').text(input.toLowerCase());
 		$('.copy').addClass('display');
 	});
 
